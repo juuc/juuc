@@ -42,14 +42,13 @@
 
 ### GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=juuc&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juuc&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juuc&theme=dark&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=juuc&theme=default&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=juuc&theme=default&hide_border=true" />
-</p>
+</picture>
+
+![juuc's GitHub activity graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juuc&theme=default)
 
 ---
 
