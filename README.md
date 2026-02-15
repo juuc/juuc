@@ -1,28 +1,43 @@
 # Woocheol Ju
 
-**Tech Lead & PO at [Bootalk](https://bootalk.co.kr)** — PropTech startup transforming real estate with AI.
+**4+ years** building fullstack products — from mobile apps and data pipelines to AI services.
+
+---
+
+### Career
+
+| Period | Company | Role | Commits |
+|--------|---------|------|---------|
+| 2025.03 — 2026.02 | [**Bootalk**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO | **3,203** |
+| 2022.02 — 2025.08 | [**Intelz / YouBook**](https://youbook.biz) — EdTech | Fullstack Engineer & Data Manager | **368** |
+
+### About Me
+
+**3,571 commits** across **34 repositories** over 4+ years.
+
+Started as an app developer at Intelz, where I built 3 generations of mobile apps (React Native → Expo) and automated data pipelines with a 10x speedup. Then joined Bootalk as CDO, rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team, owning all platform deployments, and driving product decisions across web, mobile, backend, and data.
 
 Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of Bootalk's platform.
 
 ---
 
-### About Me
-
-In 11 months, I shipped **3,203 commits** across **754+ PRs** spanning **28 repositories** — as a single engineer augmented by AI-powered development workflows.
-
-I build full-stack products end-to-end: frontend architecture, backend APIs, mobile apps, cloud infrastructure, and AI integrations. My methodology treats AI agents as force multipliers, running parallel tmux sessions overnight to produce output equivalent to a 5+ person team.
-
----
-
-### What I've Built
+### What I've Built at Bootalk
 
 | Project | Impact |
 |---------|--------|
-| **Frontend Monorepo Consolidation** | Merged 3 separate repos into 1 unified monorepo — 594 PRs of systematic migration |
-| **Expo Framework Migration** | Executed a 7-stage migration plan enabling OTA updates for mobile apps |
-| **PageSpeed 20 → 80** | 4x performance improvement through 10+ targeted optimization PRs |
-| **Type Safety Campaign** | 50+ PRs achieving 98-99% TypeScript strict coverage across the codebase |
-| **SemuGPT** | AI-powered tax consulting service — from concept to production |
+| **Frontend Monorepo Consolidation** | 3 repos → 1 monorepo. 594 PRs, PageSpeed 20→80, type safety 98%+ |
+| **Expo Framework Migration** | 7-stage migration plan, OTA updates, 90% test coverage |
+| **SEO Transformation** | CSR→SSR, sitemap 5→48K URLs, AI search engine optimization |
+| **Type Safety Campaign** | 50+ PRs achieving 98-99% TypeScript strict coverage |
+| **SemuGPT** | AI tax consulting service — concept to production |
+
+### What I Built at Intelz
+
+| Project | Impact |
+|---------|--------|
+| **Mobile App — 3 Generations** | Bare RN → Native RN → Expo managed workflow over 3 years |
+| **Data Automation** | Selenium/Python crawlers — 10x reduction in data processing time |
+| **Web-App Integration** | 121 commits bridging web platform and native app |
 
 ---
 
@@ -34,7 +49,7 @@ I don't just use AI — I orchestrate it. My workflow runs multiple Claude Code 
 - **Overnight automation**: Queue complex refactors and wake up to reviewed PRs
 - **Quality gates**: Every agent output passes through architect verification before merge
 
-The numbers speak for themselves: **3,203 commits in 11 months** isn't about typing faster — it's about thinking in systems.
+The numbers speak for themselves: **3,571 total commits** (3,203 in 11 months at Bootalk alone) isn't about typing faster — it's about thinking in systems.
 
 ---
 
@@ -54,12 +69,13 @@ The numbers speak for themselves: **3,203 commits in 11 months** isn't about typ
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend**
+**Backend & Data**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
 **Cloud & DevOps**
 
@@ -93,23 +109,38 @@ The numbers speak for themselves: **3,203 commits in 11 months** isn't about typ
 <details>
 <summary><b>🇰🇷 한국어</b></summary>
 
+### 경력
+
+| 기간 | 회사 | 역할 | 커밋 |
+|------|------|------|------|
+| 2025.03 — 2026.02 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO | **3,203** |
+| 2022.02 — 2025.08 | [**인텔즈 / 유북**](https://youbook.biz) — EdTech | 풀스택 엔지니어 & 데이터 매니저 | **368** |
+
 ### 소개
 
-[부톡(Bootalk)](https://bootalk.co.kr)의 **테크 리드 & PO** — 부동산을 AI로 혁신하는 프롭테크 스타트업.
+4년간 **34개 레포지토리**에 **3,571건 커밋**.
 
-AI 자회사 **BOOAI**를 공동 창립하여 부톡 플랫폼 위에 지능형 서비스를 구축하고 있습니다.
+인텔즈에서 앱 개발자로 시작하여 3세대에 걸친 모바일 앱(React Native → Expo)을 구축하고, 데이터 파이프라인 자동화로 10배 속도 향상을 달성. 이후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀 관리, 전체 플랫폼 배포 책임, 웹/모바일/백엔드/데이터 전반의 제품 의사결정을 주도.
 
-11개월간 **28개 레포지토리**에 걸쳐 **754+ PR**, **3,203 커밋**을 달성했습니다 — AI 기반 개발 워크플로우로 증강된 단일 엔지니어로서.
+AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에 지능형 서비스를 구축했습니다.
 
-### 주요 성과
+### 부톡 주요 성과
 
 | 프로젝트 | 성과 |
 |----------|------|
-| **프론트엔드 모노레포 통합** | 3개 레포를 1개로 통합 — 594개 PR의 체계적 마이그레이션 |
-| **Expo 프레임워크 마이그레이션** | 7단계 마이그레이션 계획 실행, 모바일 앱 OTA 업데이트 구현 |
-| **PageSpeed 20 → 80** | 10+ PR을 통한 4배 성능 개선 |
+| **프론트엔드 모노레포 통합** | 3개 레포 → 1개 모노레포. 594 PR, PageSpeed 20→80, 타입 안전성 98%+ |
+| **Expo 프레임워크 마이그레이션** | 7단계 마이그레이션 계획, OTA 업데이트, 90% 테스트 커버리지 |
+| **SEO 트랜스포메이션** | CSR→SSR, 사이트맵 5→48K URL, AI 검색엔진 최적화 |
 | **타입 안전성 캠페인** | 50+ PR로 TypeScript strict 커버리지 98-99% 달성 |
 | **세무GPT** | AI 세무 상담 서비스 — 기획부터 프로덕션까지 |
+
+### 인텔즈 주요 성과
+
+| 프로젝트 | 성과 |
+|----------|------|
+| **모바일 앱 — 3세대** | Bare RN → Native RN → Expo managed workflow (3년간 진화) |
+| **데이터 자동화** | Selenium/Python 크롤러 — 데이터 처리 시간 10배 단축 |
+| **웹-앱 통합** | 121건 커밋으로 웹 플랫폼과 네이티브 앱 브릿지 구축 |
 
 ### AI 기반 엔지니어링
 
