@@ -39,7 +39,8 @@ Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of B
 |------|----------|
 | **UX & Product Thinking** | Built a content platform from the user's perspective — learned what makes products intuitive |
 | **Content Strategy** | Worked on minibook creation flows, multi-language publishing, author revenue models |
-| **Mobile App Evolution** | Shipped 3 generations of React Native apps (webview → native → Expo) |
+| **Mobile App Evolution** | Shipped 3 generations of React Native apps (webview → native → Expo), learned RN native bridge (0.73+) |
+| **App Store & Play Store** | Owned full release pipeline — metadata, screenshots, review compliance, version management |
 | **Data Automation** | Automated manual data pipelines with Python/Selenium — 10x speedup |
 
 ---
@@ -145,7 +146,8 @@ AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에
 |------|------|
 | **UX & 프로덕트 사고** | 사용자 관점에서 콘텐츠 플랫폼 구축 — 직관적인 프로덕트란 무엇인지 체득 |
 | **콘텐츠 전략** | 미니북 생성 플로우, 다국어 퍼블리싱, 저자 수익 모델 경험 |
-| **모바일 앱 진화** | React Native 앱 3세대 출시 (웹뷰 → 네이티브 → Expo) |
+| **모바일 앱 진화** | React Native 앱 3세대 출시 (웹뷰 → 네이티브 → Expo), RN 네이티브 브릿지 (0.73+) 체득 |
+| **앱스토어 & 플레이스토어** | 전체 릴리스 파이프라인 담당 — 메타데이터, 스크린샷, 심사 가이드라인 준수, 버전 관리 |
 | **데이터 자동화** | Python/Selenium으로 수동 파이프라인 자동화 — 10배 속도 향상 |
 
 ### AI 기반 엔지니어링
