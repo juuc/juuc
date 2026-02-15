@@ -33,7 +33,7 @@ Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of B
 | **Type Safety Campaign** | 50+ PRs achieving 98-99% TypeScript strict coverage |
 | **SemuGPT** | AI tax consulting service — concept to production |
 
-### Intelz — What I Learned as a Student
+### What I Learned While Building Intelz
 
 | Area | Takeaway |
 |------|----------|
@@ -140,7 +140,7 @@ AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에
 | **타입 안전성 캠페인** | 50+ PR로 TypeScript strict 커버리지 98-99% 달성 |
 | **세무GPT** | AI 세무 상담 서비스 — 기획부터 프로덕션까지 |
 
-### 인텔즈 — 대학생 때 배운 것
+### 인텔즈 서비스를 만들며 배운 것
 
 | 영역 | 핵심 |
 |------|------|
