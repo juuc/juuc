@@ -6,16 +6,18 @@
 
 ### Career
 
-| Period | Company | Role | Commits |
-|--------|---------|------|---------|
-| 2025.03 — 2026.02 | [**Bootalk**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO | **3,203** |
-| 2022.02 — 2025.08 | [**Intelz / YouBook**](https://youbook.biz) — EdTech | Fullstack Engineer & Data Manager | **368** |
+| Period | Company | Role |
+|--------|---------|------|
+| 2025.03 — 2026.02 | [**Bootalk**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
+| 2022.02 — 2025.08 | [**Intelz / YouBook**](https://youbook.biz) — EdTech | App Developer & Data Manager |
+
+**Education:** Seoul National University — Civil Engineering (Graduated 2025.07)
 
 ### About Me
 
-**3,571 commits** across **34 repositories** over 4+ years.
+During college, I spent 3.5 years at Intelz building a knowledge-sharing platform. The role was less about engineering volume and more about understanding users — I learned how to think about UX, content structure, and what makes a product work. I also built 3 generations of mobile apps and automated data pipelines along the way.
 
-Started as an app developer at Intelz, where I built 3 generations of mobile apps (React Native → Expo) and automated data pipelines with a 10x speedup. Then joined Bootalk as CDO, rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team, owning all platform deployments, and driving product decisions across web, mobile, backend, and data.
+After graduating, I joined Bootalk as CDO and rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team and shipping **3,203 commits** across **28 repositories** in 11 months, powered by AI-augmented development workflows.
 
 Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of Bootalk's platform.
 
@@ -31,13 +33,14 @@ Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of B
 | **Type Safety Campaign** | 50+ PRs achieving 98-99% TypeScript strict coverage |
 | **SemuGPT** | AI tax consulting service — concept to production |
 
-### What I Built at Intelz
+### What I Learned at Intelz (College)
 
-| Project | Impact |
-|---------|--------|
-| **Mobile App — 3 Generations** | Bare RN → Native RN → Expo managed workflow over 3 years |
-| **Data Automation** | Selenium/Python crawlers — 10x reduction in data processing time |
-| **Web-App Integration** | 121 commits bridging web platform and native app |
+| Area | Takeaway |
+|------|----------|
+| **UX & Product Thinking** | Built a content platform from the user's perspective — learned what makes products intuitive |
+| **Content Strategy** | Worked on minibook creation flows, multi-language publishing, author revenue models |
+| **Mobile App Evolution** | Shipped 3 generations of React Native apps (webview → native → Expo) |
+| **Data Automation** | Automated manual data pipelines with Python/Selenium — 10x speedup |
 
 ---
 
@@ -49,7 +52,7 @@ I don't just use AI — I orchestrate it. My workflow runs multiple Claude Code 
 - **Overnight automation**: Queue complex refactors and wake up to reviewed PRs
 - **Quality gates**: Every agent output passes through architect verification before merge
 
-The numbers speak for themselves: **3,571 total commits** (3,203 in 11 months at Bootalk alone) isn't about typing faster — it's about thinking in systems.
+The numbers speak for themselves: **3,203 commits in 11 months** isn't about typing faster — it's about thinking in systems.
 
 ---
 
@@ -111,16 +114,18 @@ The numbers speak for themselves: **3,571 total commits** (3,203 in 11 months at
 
 ### 경력
 
-| 기간 | 회사 | 역할 | 커밋 |
-|------|------|------|------|
-| 2025.03 — 2026.02 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO | **3,203** |
-| 2022.02 — 2025.08 | [**인텔즈 / 유북**](https://youbook.biz) — EdTech | 풀스택 엔지니어 & 데이터 매니저 | **368** |
+| 기간 | 회사 | 역할 |
+|------|------|------|
+| 2025.03 — 2026.02 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
+| 2022.02 — 2025.08 | [**인텔즈 / 유북**](https://youbook.biz) — EdTech | 앱 개발자 & 데이터 매니저 |
+
+**학력:** 서울대학교 건설환경공학부 (2025.07 졸업)
 
 ### 소개
 
-4년간 **34개 레포지토리**에 **3,571건 커밋**.
+대학 재학 중 인텔즈에서 3.5년간 지식 공유 플랫폼을 만들었습니다. 코드 양보다는 사용자를 이해하는 시간이었습니다 — UX, 콘텐츠 구조, 좋은 프로덕트가 무엇인지를 배웠습니다. 그 과정에서 3세대의 모바일 앱과 데이터 자동화 파이프라인도 구축했습니다.
 
-인텔즈에서 앱 개발자로 시작하여 3세대에 걸친 모바일 앱(React Native → Expo)을 구축하고, 데이터 파이프라인 자동화로 10배 속도 향상을 달성. 이후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀 관리, 전체 플랫폼 배포 책임, 웹/모바일/백엔드/데이터 전반의 제품 의사결정을 주도.
+졸업 후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀을 관리하며 11개월간 **28개 레포지토리**에 **3,203건 커밋**, AI 기반 개발 워크플로우로 달성했습니다.
 
 AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에 지능형 서비스를 구축했습니다.
 
@@ -134,13 +139,14 @@ AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에
 | **타입 안전성 캠페인** | 50+ PR로 TypeScript strict 커버리지 98-99% 달성 |
 | **세무GPT** | AI 세무 상담 서비스 — 기획부터 프로덕션까지 |
 
-### 인텔즈 주요 성과
+### 인텔즈에서 배운 것 (대학 재학)
 
-| 프로젝트 | 성과 |
-|----------|------|
-| **모바일 앱 — 3세대** | Bare RN → Native RN → Expo managed workflow (3년간 진화) |
-| **데이터 자동화** | Selenium/Python 크롤러 — 데이터 처리 시간 10배 단축 |
-| **웹-앱 통합** | 121건 커밋으로 웹 플랫폼과 네이티브 앱 브릿지 구축 |
+| 영역 | 핵심 |
+|------|------|
+| **UX & 프로덕트 사고** | 사용자 관점에서 콘텐츠 플랫폼 구축 — 직관적인 프로덕트란 무엇인지 체득 |
+| **콘텐츠 전략** | 미니북 생성 플로우, 다국어 퍼블리싱, 저자 수익 모델 경험 |
+| **모바일 앱 진화** | React Native 앱 3세대 출시 (웹뷰 → 네이티브 → Expo) |
+| **데이터 자동화** | Python/Selenium으로 수동 파이프라인 자동화 — 10배 속도 향상 |
 
 ### AI 기반 엔지니어링
 
