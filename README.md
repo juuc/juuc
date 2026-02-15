@@ -11,6 +11,8 @@
 | 2025.03 — 2026.02 | [**Bootalk**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
 | 2022.02 — 2025.08 | [**Intelz / YouBook**](https://youbook.biz) — EdTech | App Developer & Data Manager |
 
+> YouBook: AI-powered minibook knowledge platform — create, remix, and share short-form content in 13+ languages across 190+ countries.
+
 **Education:** Seoul National University — Civil Engineering (Graduated 2025.07)
 
 ### About Me
@@ -119,6 +121,8 @@ The numbers speak for themselves: **3,203 commits in 11 months** isn't about typ
 |------|------|------|
 | 2025.03 — 2026.02 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
 | 2022.02 — 2025.08 | [**인텔즈 / 유북**](https://youbook.biz) — EdTech | 앱 개발자 & 데이터 매니저 |
+
+> 유북(YouBook): AI 기반 미니북 지식 플랫폼 — 13개 이상 언어로 190개국 이상에서 숏폼 콘텐츠를 생성, 리믹스, 공유.
 
 **학력:** 서울대학교 건설환경공학부 (2025.07 졸업)
 
