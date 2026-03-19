@@ -2,6 +2,8 @@
 
 **4+ years** building fullstack products — from mobile apps and data pipelines to AI services.
 
+**[View Full Portfolio →](https://juuc.github.io/portfolio)**
+
 ---
 
 ### Career
@@ -19,7 +21,7 @@
 
 During college, I spent 3.5 years at Intelz building a knowledge-sharing platform. The role was less about engineering volume and more about understanding users — I learned how to think about UX, content structure, and what makes a product work. I also built 3 generations of mobile apps and automated data pipelines along the way.
 
-After graduating, I joined Bootalk as CDO and rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team and shipping **3,203 commits** across **28 repositories** in 11 months, powered by AI-augmented development workflows.
+After graduating, I joined Bootalk as CDO and rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team and shipping **3,775 commits** across **28 repositories** in 12 months, powered by AI-augmented development workflows.
 
 Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of Bootalk's platform.
 
@@ -55,7 +57,7 @@ I don't just use AI — I orchestrate it. My workflow runs multiple Claude Code 
 - **Overnight automation**: Queue complex refactors and wake up to reviewed PRs
 - **Quality gates**: Every agent output passes through architect verification before merge
 
-The numbers speak for themselves: **3,203 commits in 11 months** isn't about typing faster — it's about thinking in systems.
+The numbers speak for themselves: **3,775 commits in 12 months** isn't about typing faster — it's about thinking in systems.
 
 ---
 
@@ -108,12 +110,12 @@ The numbers speak for themselves: **3,203 commits in 11 months** isn't about typ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/우철-주-a3981729b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ju.woocheol@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juuc/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://juuc.github.io/portfolio)
 
 ---
 
 <details>
-<summary><b>🇰🇷 한국어</b></summary>
+<summary><b>한국어</b></summary>
 
 ### 경력
 
@@ -126,11 +128,13 @@ The numbers speak for themselves: **3,203 commits in 11 months** isn't about typ
 
 **학력:** 서울대학교 건설환경공학부 (2025.07 졸업)
 
+**[전체 포트폴리오 보기 →](https://juuc.github.io/portfolio/#/?lang=ko)**
+
 ### 소개
 
 대학 재학 중 인텔즈에서 3.5년간 지식 공유 플랫폼을 만들었습니다. 코드 양보다는 사용자를 이해하는 시간이었습니다 — UX, 콘텐츠 구조, 좋은 프로덕트가 무엇인지를 배웠습니다. 그 과정에서 3세대의 모바일 앱과 데이터 자동화 파이프라인도 구축했습니다.
 
-졸업 후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀을 관리하며 11개월간 **28개 레포지토리**에 **3,203건 커밋**, AI 기반 개발 워크플로우로 달성했습니다.
+졸업 후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀을 관리하며 12개월간 **28개 레포지토리**에 **3,775건 커밋**, AI 기반 개발 워크플로우로 달성했습니다.
 
 AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에 지능형 서비스를 구축했습니다.
 
