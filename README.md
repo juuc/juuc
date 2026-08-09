@@ -10,7 +10,7 @@
 
 | Period | Company | Role |
 |--------|---------|------|
-| 2025.03 — 2026.02 | [**Bootalk**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
+| 2025.03 — Present | [**Bootalk**](https://bootalk.co.kr) — PropTech | Data Engineer → Tech Lead / PO |
 | 2022.02 — 2025.08 | [**Intelz / YouBook**](https://youbook.biz) — EdTech | App Developer & Data Manager |
 
 > YouBook: AI-powered minibook knowledge platform — create, remix, and share short-form content in 13+ languages across 190+ countries.
@@ -21,7 +21,7 @@
 
 During college, I spent 3.5 years at Intelz building a knowledge-sharing platform. The role was less about engineering volume and more about understanding users — I learned how to think about UX, content structure, and what makes a product work. I also built 3 generations of mobile apps and automated data pipelines along the way.
 
-After graduating, I joined Bootalk as CDO and rapidly expanded to Tech Lead / PO after the CTO's departure — managing a 4-person dev team and shipping **3,775 commits** across **28 repositories** in 12 months, powered by AI-augmented development workflows.
+After graduating, I joined Bootalk as a Data Engineer and expanded to Tech Lead / PO after the CTO transition. I now own execution across web, mobile, backend, data, releases, and deployments for a 4-person engineering team. As of 2026-08-09, GitHub Search API / GraphQL verifies **9,283 authored commits, 2,504 PRs, and 2,325 merged PRs**.
 
 Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of Bootalk's platform.
 
@@ -31,11 +31,11 @@ Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of B
 
 | Project | Impact |
 |---------|--------|
-| **Frontend Monorepo Consolidation** | 3 repos → 1 monorepo. 594 PRs, PageSpeed 20→80, type safety 98%+ |
+| **Frontend Monorepo Consolidation** | 3 repos → 1 monorepo. 1,409 authored PRs, 1,301 merged PRs, PageSpeed 20→80 |
 | **Expo Framework Migration** | 7-stage migration plan, OTA updates, 90% test coverage |
 | **SEO Transformation** | CSR→SSR, sitemap 5→48K URLs, AI search engine optimization |
 | **Type Safety Campaign** | 50+ PRs achieving 98-99% TypeScript strict coverage |
-| **SemuGPT** | AI tax consulting service — concept to production |
+| **SemuGPT** | AI tax consulting service — production handover and commercial delivery completed 2026-05-18 |
 
 ### What I Learned While Building Intelz
 
@@ -51,13 +51,21 @@ Co-founded **BOOAI**, an AI subsidiary building intelligent services on top of B
 
 ### AI-Powered Engineering
 
-I don't just use AI — I orchestrate it. My workflow runs multiple Claude Code agents in parallel tmux panes, each tackling independent tasks with full autonomy. This approach lets a single engineer move at the pace of a full team:
+AI coding agents are part of my operating model, not a badge for raw volume. I use them inside a controlled loop: evidence collection → isolated implementation → automated verification → PR and release gates.
 
-- **Parallel execution**: 4-8 agents working simultaneously on non-overlapping file sets
-- **Overnight automation**: Queue complex refactors and wake up to reviewed PRs
-- **Quality gates**: Every agent output passes through architect verification before merge
+- **Evidence first**: source, CI, runtime, device, provider, and production proof stay distinct
+- **Isolated delivery**: scoped branches and clean worktrees protect concurrent work
+- **Fail-closed gates**: tests, security review, PR state, deployment, and live readback decide completion
 
-The numbers speak for themselves: **3,775 commits in 12 months** isn't about typing faster — it's about thinking in systems.
+The calendar below publishes relative daily intensity from local aggregates. Raw tokens, costs, sessions, and project details stay private.
+
+<a href="https://juuc.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-dark-en.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-light-en.svg" />
+    <img src="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-light-en.svg" alt="53-week relative AI activity calendar" width="760" />
+  </picture>
+</a>
 
 ---
 
@@ -121,7 +129,7 @@ The numbers speak for themselves: **3,775 commits in 12 months** isn't about typ
 
 | 기간 | 회사 | 역할 |
 |------|------|------|
-| 2025.03 — 2026.02 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | CDO → Tech Lead / PO |
+| 2025.03 — 현재 | [**부톡 (Bootalk)**](https://bootalk.co.kr) — PropTech | Data Engineer → Tech Lead / PO |
 | 2022.02 — 2025.08 | [**인텔즈 / 유북**](https://youbook.biz) — EdTech | 앱 개발자 & 데이터 매니저 |
 
 > 유북(YouBook): AI 기반 미니북 지식 플랫폼 — 13개 이상 언어로 190개국 이상에서 숏폼 콘텐츠를 생성, 리믹스, 공유.
@@ -134,7 +142,7 @@ The numbers speak for themselves: **3,775 commits in 12 months** isn't about typ
 
 대학 재학 중 인텔즈에서 3.5년간 지식 공유 플랫폼을 만들었습니다. 코드 양보다는 사용자를 이해하는 시간이었습니다 — UX, 콘텐츠 구조, 좋은 프로덕트가 무엇인지를 배웠습니다. 그 과정에서 3세대의 모바일 앱과 데이터 자동화 파이프라인도 구축했습니다.
 
-졸업 후 부톡에 CDO로 합류, CTO 퇴사 후 Tech Lead / PO로 역할을 확장 — 4인 개발팀을 관리하며 12개월간 **28개 레포지토리**에 **3,775건 커밋**, AI 기반 개발 워크플로우로 달성했습니다.
+졸업 후 부톡에 Data Engineer로 합류해 CTO 전환 이후 Tech Lead / PO로 역할을 확장했습니다. 현재 4인 개발팀과 함께 웹, 앱, 백엔드, 데이터, 릴리스, 배포 전반의 실행을 책임지고 있습니다. 2026-08-09 기준 GitHub Search API / GraphQL 검증 수치는 **작성 커밋 9,283건, PR 2,504건, 머지 PR 2,325건**입니다.
 
 AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에 지능형 서비스를 구축했습니다.
 
@@ -142,11 +150,11 @@ AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에
 
 | 프로젝트 | 성과 |
 |----------|------|
-| **프론트엔드 모노레포 통합** | 3개 레포 → 1개 모노레포. 594 PR, PageSpeed 20→80, 타입 안전성 98%+ |
+| **프론트엔드 모노레포 통합** | 3개 레포 → 1개 모노레포. 작성 PR 1,409건, 머지 PR 1,301건, PageSpeed 20→80 |
 | **Expo 프레임워크 마이그레이션** | 7단계 마이그레이션 계획, OTA 업데이트, 90% 테스트 커버리지 |
 | **SEO 트랜스포메이션** | CSR→SSR, 사이트맵 5→48K URL, AI 검색엔진 최적화 |
 | **타입 안전성 캠페인** | 50+ PR로 TypeScript strict 커버리지 98-99% 달성 |
-| **세무GPT** | AI 세무 상담 서비스 — 기획부터 프로덕션까지 |
+| **세무GPT** | AI 세무 상담 서비스 — 2026-05-18 프로덕션 인수인계 및 상용 전달 완료 |
 
 ### 인텔즈 서비스를 만들며 배운 것
 
@@ -160,10 +168,20 @@ AI 자회사 **BOOAI(부아이)**를 공동 창립하여 부톡 플랫폼 위에
 
 ### AI 기반 엔지니어링
 
-AI를 단순히 사용하는 것이 아니라 **오케스트레이션**합니다. 여러 Claude Code 에이전트를 병렬 tmux 세션에서 동시 실행하여, 1인 엔지니어가 5인 이상 팀의 속도로 개발합니다.
+AI 코딩 에이전트를 단순 도구가 아니라 운영 모델의 일부로 사용합니다. 근거 수집 → 격리된 구현 → 자동 검증 → PR·릴리스 게이트의 통제된 흐름 안에서 활용합니다.
 
-- **병렬 실행**: 4-8개 에이전트가 비중복 파일셋에서 동시 작업
-- **야간 자동화**: 복잡한 리팩토링을 큐잉하고, 리뷰된 PR과 함께 기상
-- **품질 게이트**: 모든 에이전트 결과물은 아키텍트 검증 후 머지
+- **근거 우선**: 소스, CI, 런타임, 디바이스, 공급자, 프로덕션 증거를 구분
+- **격리된 전달**: 범위가 명확한 브랜치와 clean worktree로 동시 작업 보호
+- **실패 폐쇄형 게이트**: 테스트, 보안 검토, PR 상태, 배포, live readback으로 완료 판단
+
+아래 달력은 로컬 집계에서 상대적인 일별 활동 강도만 공개합니다. 원본 토큰, 비용, 세션, 프로젝트 정보는 비공개로 유지합니다.
+
+<a href="https://juuc.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-dark-ko.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-light-ko.svg" />
+    <img src="https://raw.githubusercontent.com/juuc/portfolio/main/public/metrics/ai-activity-light-ko.svg" alt="53주 상대 AI 활동 달력" width="760" />
+  </picture>
+</a>
 
 </details>
